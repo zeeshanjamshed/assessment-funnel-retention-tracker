@@ -4,9 +4,15 @@ A complete solution to track user progression and drop-offs in quiz funnels.
 
 ## 🚀 Quick Start
 
+### 1. Clone the repository
+```bash
+git clone https://github.com/YOUR_USERNAME/assessment-funnel-retention-tracker.git
+cd assessment-funnel-retention-tracker
+```
+
 ### 1. Setup Database
 ```bash
-# Create database
+
 createdb funnel_tracker
 ```
 
